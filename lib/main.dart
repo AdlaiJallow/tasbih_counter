@@ -126,7 +126,7 @@ class _TasBihCounterState extends State<TasBihCounter> {
                 child: Text(
                   '$countNumber',
                   style: const TextStyle(
-                    color: Colors.black38,
+                    color: Colors.black87,
                     fontSize: 30.0,
                     backgroundColor: Colors.transparent,
                   ),
